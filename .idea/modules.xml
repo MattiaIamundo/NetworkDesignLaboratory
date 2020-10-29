@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/UnsplittedFlowFormulation.iml" filepath="$PROJECT_DIR$/UnsplittedFlowFormulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NetworkDesignLaboratory.iml" filepath="$PROJECT_DIR$/NetworkDesignLaboratory.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,11 @@
+
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(£‹ªˆúÿÿÿÿ
+X	java:S125""<This block of commented-out lines of code should be removed.(Í·Æï8 åÚóÖ.
+a
+java:S1128"DRemove this unused import 'cern.colt.matrix.tdouble.DoubleMatrix1D'.(²åáÓ8ŠŞÑƒ×.
+W
+java:S1128"<Remove this unused import 'com.net2plan.libraries.WDMUtils'.(ªé¶Úúÿÿÿÿ
+f	java:S117m"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ğîÌ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Òí Å

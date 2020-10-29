@@ -1,0 +1,10 @@
+
+>
+java:S1481Y"(Remove this unused "h_p" local variable.(œŠŸ
+Q
+java:S1128";Remove this unused import 'com.net2plan.utils.DoubleUtils'.(ñ‡‡Å
+M
+java:S1854Y"7Remove this useless assignment to local variable "h_p".(œŠŸ
+f	java:S117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Ò‡Œ
+t
+java:S2293q"YReplace the type specification in this constructor call with the diamond operator ("<>").(£‹ªˆúÿÿÿÿ
